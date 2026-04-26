@@ -1,0 +1,6 @@
+{
+  "name": "Door Memo Reminder",
+  "description": "A fully offline order management and reminder app for door and frame shops. Features digital memos, automatic calculations, and delivery reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
